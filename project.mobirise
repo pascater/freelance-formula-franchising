@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 31,
+    "uniqCompNum": 32,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -43,6 +43,101 @@
         "html_before": ""
       },
       "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#74a3c7"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#74a3c7"
+            },
+            ".link, .dropdown-item": {
+              "color": "#74a3c7",
+              "font-family": "'Libre Franklin', serif"
+            },
+            ".link": {
+              "font-size": "0.8125rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.880rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#74a3c7"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#74a3c7",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#bdb39a!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#fff",
+            "fontSize": 0.8125,
+            "imageSize": 4,
+            "fontName": {
+              "name": "Libre Franklin",
+              "css": "'Libre Franklin', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            },
+            "fontColor": "#74a3c7",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/freelance-program-assidigital-1400x878.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AssiDigital Startup Innovativa</a>",
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "menu2",
+          "_anchor": "menu2-v"
+        },
         {
           "_params": {
             "showText": false,
@@ -76,7 +171,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "text": "<b><i>Caro Assicuratore oppure potenziale nuovo collega</i>,\n</b><br>\n<br><i>recentemente abbiamo lanciato sul mercato una nuova forma di distribuzione assicurativa con la prima Agenzia Startup innovativa italiana, che fa del Digital Marketing il suo punto di forza.</i><i style=\"font-weight: bold;\">\n</i><br>\n<br><b>Molti colleghi hanno chiesto informazioni in merito ad una possibile collaborazione.<br></b><br><i>Abbiamo dunque deciso di fornire l'opportunità a coloro che ne hanno fatto richiesta e pertanto abbiamo creato una nuova linea distributiva aperta a tutti &nbsp;chiamata ASSIDIGITAL FREELANCE + FRACHISING FORMULA.\n<br></i>\n<br><b>Freelance di Assidigital è un programma completo ed innovativo dedicato agli intermediari assicurativi iscritti in sezione A, B ed E (oppure degli aspiranti tali) che vogliono ottenere nuove opportunità di vendita, restando però legati anche eventualmente alle proprie compagnie ed ai propri rapporti di collaborazione.</b><br>\n<br><i>Con ASSIDIGITAL FREELANCE non vi è dunque il vincolo di esclusiva di rapporto con noi. Si possono avere tutti i nostri servizi senza obblighi particolari.</i><br>\n<br>Da oggi puoi anche addirittura aprire la tua <b>agenzia personale in remoto&nbsp;</b>con una novità assoluta: ti forniamo noi i nominativi da assicurare tramite un funnel marketing di Lead Generation assicurativa nei quali siamo esperti ed assoluti Leader in Italia.\n<br>\n<br>Con noi puoi crearti una professione altamente remunerativa ed ancora poco diffusa in Italia nella modalità online ed in pochissimo tempo andare a ROI (return on investment) e successivamente iniziare a guadagnare seriamente.<br><br>Se provi ad iniziare in maniera tradizionale (o lo hai già fatto), sperimenti anni ed anni di gavetta, senza quasi mai raggiungere le posizioni di vertice (Agente o Sub) perchè il sistema tradizionale è fortemente competitivo ed impedisce ai più di raggiungere determinate posizioni se non prima di aver sputato lacrime e sangue ed essere spremuto come un limone con le solite tecniche coercitive vecchie di 70 anni perlomeno.<br><br>Con noi, salti tutti i passaggi e andiamo subito al sodo, ovvero tecniche innovative, strumenti digitali, metodo consolidato, nominativi caldi, digital marketing.<br>\n<br>Ricapitoliamo dunque: ti troviamo i potenziali clienti, ti forniamo un metodo innovativo e dei software gestionali, ti spieghiamo come fare tutto questo insegnandoti insegniamo le migliori tecniche di vendita con dei corsi assolutamente innovativi nel nostro paese ed infine se vuoi, ti diamo anche i mandati delle compagnie assicurative con cui iniziare.<br><br>\n<br>Se vuoi saperne di più Clicca quì : &nbsp;<br>https://www.insurancemarketing.eu/franchising-assicurativo<br>\n<br><b>ORA COSA VUOI FARE? SEGUIRE I VECCHI SEPOLCRI IMBIANCATI CHE TI FANNO FARE TELEFONATE A FREDDO E FORZARE LE VENDITE OPPURE SCEGLIERE CHI TI DICE LE COSE COME STANNO DAVVERO E TI DA UNA REALE OPPURTUNITA' DI SALTARE A PIE' PARI TUTTA LA NOIOSA ED INUTILE GAVETTA SENZA GUADAGNARE UN CENTESIMO?<br><br>Fidati, la nostra è davvero un'eccellente possibilità di crearsi una nuova carriera lavorativa più facile e remunerativa.</b>",
+          "text": "<b><i>Caro Assicuratore oppure potenziale nuovo collega</i>,\n</b><br>\n<br><i>recentemente abbiamo lanciato sul mercato una nuova forma di distribuzione assicurativa con la prima Agenzia Startup innovativa italiana, che fa del Digital Marketing il suo punto di forza.</i><i style=\"font-weight: bold;\">\n</i><br>\n<br><b>Molti colleghi hanno chiesto informazioni in merito ad una possibile collaborazione.<br></b><br><i>Abbiamo dunque deciso di fornire l'opportunità a coloro che ne hanno fatto richiesta e pertanto abbiamo creato una nuova linea distributiva aperta a tutti &nbsp;chiamata ASSIDIGITAL FREELANCE + FRACHISING FORMULA.\n<br></i>\n<br><b>Freelance di Assidigital è un programma completo ed innovativo dedicato agli intermediari assicurativi iscritti in sezione A, B ed E (oppure degli aspiranti tali) che vogliono ottenere nuove opportunità di vendita, restando però legati anche eventualmente alle proprie compagnie ed ai propri rapporti di collaborazione.</b><br>\n<br><i>Con ASSIDIGITAL FREELANCE non vi è dunque il vincolo di esclusiva di rapporto con noi. Si possono avere tutti i nostri servizi senza obblighi particolari.</i><br>\n<br>Da oggi puoi anche addirittura aprire la tua <b>agenzia personale in remoto&nbsp;</b>con una novità assoluta: ti forniamo noi i nominativi da assicurare tramite un funnel marketing di Lead Generation assicurativa nei quali siamo esperti ed assoluti Leader in Italia.\n<br>\n<br>Con noi puoi crearti una professione altamente remunerativa ed ancora poco diffusa in Italia nella modalità online ed in pochissimo tempo andare a ROI (return on investment) e successivamente iniziare a guadagnare seriamente.<br><br>Se provi ad iniziare in maniera tradizionale (o lo hai già fatto), sperimenti anni ed anni di gavetta, senza quasi mai raggiungere le posizioni di vertice (Agente o Sub) perchè il sistema tradizionale è fortemente competitivo ed impedisce ai più di raggiungere determinate posizioni se non prima di aver sputato lacrime e sangue ed essere stato spremuto come un limone con le solite tecniche coercitive vecchie di 70 anni perlomeno.<br><br>Con noi salti tutti i passaggi andando subito al sodo, ovvero tecniche innovative, strumenti digitali, metodo consolidato, nominativi caldi, digital marketing.<br>\n<br>Ricapitoliamo dunque: <b>ti troviamo i potenziali clienti</b>, ti forniamo un metodo innovativo e dei software gestionali, ti spieghiamo come fare tutto questo insegnandoti le migliori tecniche di vendita con dei corsi assolutamente innovativi (primi ed unici nel nostro paese!) ed infine se vuoi, ti diamo anche i mandati delle compagnie assicurative con cui iniziare.<br>\n<br><b>ORA PENSA BENE A COSA VUOI FARE? SEGUIRE I VECCHI SEPOLCRI IMBIANCATI CHE TI FANNO FARE TELEFONATE A FREDDO E FORZARE LE VENDITE AD AMICI/PARENTI/CONOSCENTI? OPPURE SCEGLIERE CHI TI DICE LE COSE COME STANNO DAVVERO E CHI TI DA UNA REALE OPPORTUNITA' DI SALTARE A PIE' PARI TUTTA QUESTA FATICOSA, NOIOSA ED INUTILE GAVETTA, SENZA NEMMENO GUADAGNARE UN CENTESIMO?<br><br>Davvero, fidati, la nostra è sul serio un'eccellente possibilità di crearsi una nuova carriera lavorativa, innovativa, facile e remunerativa.<br><br></b>",
           "_tags": [
             "Tema"
           ],
@@ -117,19 +212,19 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<b>Le nostre Formule</b>",
+          "title": "<b>Leggi quì sotto le nostre Formule</b>",
           "subtitle": "",
           "title1": "<b>Silver</b>",
           "title2": "<b>Gol</b><b>d</b>",
-          "title3": "<b>Platinum</b>",
+          "title3": "<b>Platinum (franchising)</b>",
           "title4": "Ultimate",
           "price1": "<b>997</b>",
           "price2": "<b>1.997</b>",
           "price3": "<b>3.997</b>",
           "price4": "150",
-          "period1": "+ extra",
-          "period2": "+ extra",
-          "period3": "+ extra",
+          "period1": "+ extra per traffico",
+          "period2": "+ extra&nbsp;per traffico",
+          "period3": "+ extra&nbsp;per traffico",
           "period4": "$/monthly",
           "description1": "",
           "description2": "",
