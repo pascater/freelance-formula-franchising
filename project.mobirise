@@ -1,0 +1,291 @@
+{
+  "settings": {
+    "name": "Site-02-05_2355",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "directm",
+      "title": "DirectM",
+      "styling": {
+        "primaryColor": "#bdb39a",
+        "secondaryColor": "#ecf544",
+        "successColor": "#1E7C3A",
+        "infoColor": "#74a3c7",
+        "warningColor": "#ecf544",
+        "dangerColor": "#FF9685",
+        "titleFont": "Oxygen",
+        "subtitleFont": "Libre Franklin",
+        "textFont": "Libre Franklin",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      },
+      "additionalSetColors": [
+        "#ffffff",
+        "#ecf544",
+        "#1e3b83"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.10",
+    "siteFonts": [],
+    "uniqCompNum": 31,
+    "versionPublish": "4.9.7",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/freelance-program-assidigital-freccia-giu-1400x878.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "image3",
+          "_anchor": "image3-r"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "text": "<b><i>Caro Assicuratore oppure potenziale nuovo collega</i>,\n</b><br>\n<br><i>recentemente abbiamo lanciato sul mercato una nuova forma di distribuzione assicurativa con la prima Agenzia Startup innovativa italiana, che fa del Digital Marketing il suo punto di forza.</i><i style=\"font-weight: bold;\">\n</i><br>\n<br><b>Molti colleghi hanno chiesto informazioni in merito ad una possibile collaborazione.<br></b><br><i>Ed eccoci qua: abbiamo deciso di fornire l'opportunità a coloro che ne hanno fatto richiesta e pertanto abbiamo creato una nuova linea distributiva aperta a tutti e senza impegni particolari, chiamata ASSIDIGITAL FREELANCE.\n<br></i>\n<br><b>Freelance di Assidigital è un programma completo ed innovativo dedicato agli intermediari assicurativi iscritti in sezione A, B ed E (oppure degli aspiranti tali) che vogliono ottenere nuove opportunità di vendita, restando però legati anche eventualmente alle proprie compagnie ed ai propri rapporti di collaborazione.</b><br>\n<br><i>Con ASSIDIGITAL FREELANCE non vi è dunque il vincolo di esclusiva di rapporto con noi. Si possono avere tutti i nostri servizi senza obblighi particolari.</i><br>\n<br>Da oggi puoi anche addirittura aprire la tua <b>agenzia personale in remoto&nbsp;</b>con una novità assoluta: ti forniamo noi i nominativi da assicurare tramite un funnel marketing di Lead Generation assicurativa nei quali siamo esperti ed assoluti Leader in Italia.\n<br>\n<br>Con noi puoi crearti una professione altamente remunerativa ed ancora poco diffusa in Italia nella modalità online ed in pochissimo tempo andare a ROI (return on investment) e successivamente iniziare a guadagnare seriamente.<br><br>Se provi ad iniziare in maniera tradizionale (o lo hai già fatto), sperimenti anni ed anni di gavetta, senza quasi mai raggiungere le posizioni di vertice (Agente o Sub) perchè il sistema tradizionale è fortemente competitivo ed impedisce ai più di raggiungere determinate posizioni se non prima di aver sputato lacrime e sangue ed essere spremuto come un limone con le solite tecniche coercitive vecchie di 70 anni perlomeno.<br><br>Con noi, salti tutti i passaggi e andiamo subito al sodo, ovvero tecniche innovative, strumenti digitali, metodo consolidato, nominativi caldi, digital marketing.<br>\n<br>Ricapitoliamo dunque: ti troviamo i potenziali clienti, ti forniamo un metodo innovativo e dei software gestionali, ti spieghiamo come fare tutto questo insegnandoti insegniamo le migliori tecniche di vendita con dei corsi assolutamente innovativi nel nostro paese ed infine se vuoi, ti diamo anche i mandati delle compagnie assicurative con cui iniziare.<br><br>\n<br>Se vuoi saperne di più Clicca quì : &nbsp;<br>https://www.insurancemarketing.eu/franchising-assicurativo<br>\n<br><b>ORA COSA VUOI FARE? SEGUIRE I VECCHI SEPOLCRI IMBIANCATI CHE TI FANNO FARE TELEFONATE A FREDDO E FORZARE LE VENDITE OPPURE SCEGLIERE CHI TI DICE LE COSE COME STANNO DAVVERO E TI DA UNA REALE OPPURTUNITA' DI SALTARE A PIE' PARI TUTTA LA NOIOSA ED INUTILE GAVETTA SENZA GUADAGNARE UN CENTESIMO?<br><br>Fidati, la nostra è davvero un'eccellente possibilità di crearsi una nuova carriera lavorativa più facile e remunerativa.</b>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-e",
+          "_styles": {
+            "P": {
+              "font-size": "30px",
+              "color": "#2b4484",
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showIcons": true,
+            "firstType": "",
+            "secondType": "",
+            "thirdType": "primary",
+            "fourthType": "hidden",
+            "bgColor1": "#bdb39a",
+            "bgColor2": "#bb8c2e",
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/tabs1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>Le nostre Formule</b>",
+          "subtitle": "",
+          "title1": "<b>Silver</b>",
+          "title2": "<b>Gol</b><b>d</b>",
+          "title3": "<b>Platinum</b>",
+          "title4": "Ultimate",
+          "price1": "<b>997</b>",
+          "price2": "<b>1.997</b>",
+          "price3": "<b>3.997</b>",
+          "price4": "150",
+          "period1": "+ extra",
+          "period2": "+ extra",
+          "period3": "+ extra",
+          "period4": "$/monthly",
+          "description1": "",
+          "description2": "",
+          "description3": "<b><i>Formula &nbsp;Franchising</i></b>",
+          "description4": "One week free",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b><i>Installazione Funnel completo</i></b></li><li class=\"list-group-item\"><b><i>Leads (contatti interessati) quotidiani\n</i></b></li><li class=\"list-group-item\"><b><i>Tecnica telefonica per fissare appuntamenti</i></b></li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b><i>Installazione Funnel completo</i></b></li><li class=\"list-group-item\"><b><i>Leads (contatti interessati) quotidiani</i></b></li><li class=\"list-group-item\"><b><i>Metodo full per fissare appuntamenti + vendita</i></b></li><li class=\"list-group-item\"><b><i>Corso Vendita completo\n</i></b></li><li class=\"list-group-item\"><b><i>Sito internet + Social\n</i></b></li><li class=\"list-group-item\"><b><i>Corso base Digital Marketing</i></b></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b><i>Installazione 2 Funnel completi + Marketing Automation</i></b></li><li class=\"list-group-item\"><b><i>Leads (contatti interessati) quotidiani</i></b></li><li class=\"list-group-item\"><b><i>Metodo \"Advanced\" per fissare appuntamento + vendita</i></b></li><li class=\"list-group-item\"><b><i>Formazione \"Executive\" in aula\n</i></b></li><li class=\"list-group-item\"><b><i>Corso Vendita \"Top\"</i></b></li><li class=\"list-group-item\"><i><b>Brand position geolocalizzato</b></i></li><li class=\"list-group-item\"><b><i>Sito internet + Social</i></b></li><li class=\"list-group-item\"><b><i>Corso Digital Marketing \"Full\"\n</i></b></li><li class=\"list-group-item\"><b><i>Software vendita \"Plus35\" IDD</i></b></li><li class=\"list-group-item\"><b><i>Supporto dedicato 9/18</i></b></li><li class=\"list-group-item\"><b><i>Mandati con provv. 90%\n</i></b></li><li class=\"list-group-item\"><b><i>Esclusiva di zona + uso Brand</i></b></li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Mobirise horizontal navigation menu collapses on devices to a single-icon mobile menu, also know as \"hamburger menu\", for a flawless mobile experience for all visitors.</li><li class=\"list-group-item\">Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.</li><li class=\"list-group-item\">20 GB bandwidth</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSeGjoB_mR-ppUk-lKnMZazCAQPpm-uoBJgkC2Zbv9KKkhxRzA/viewform\" class=\"btn btn-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Scopri di più</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSeGjoB_mR-ppUk-lKnMZazCAQPpm-uoBJgkC2Zbv9KKkhxRzA/viewform\" class=\"btn btn-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Scopri di più</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSeGjoB_mR-ppUk-lKnMZazCAQPpm-uoBJgkC2Zbv9KKkhxRzA/viewform\" class=\"btn btn-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Scopri di più</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-primary\">DEMO</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "pricing-table3",
+          "_anchor": "pricing-table3-2",
+          "currency1": "€",
+          "currency2": "€",
+          "currency3": "€",
+          "_styles": {
+            ".mbr-plan-title": {
+              "color": "#ecf544"
+            },
+            ".mbr-plan-title B": {
+              "color": "#1e3b83",
+              "font-size": "46px"
+            },
+            ".mbr-price-figure": {
+              "color": "#ffffff"
+            },
+            "UL": {
+              "font-size": "24px",
+              "color": "#2b4484"
+            },
+            ".btn": {
+              "font-size": "23px"
+            },
+            ".mbr-section__container .mbr-section-title B": {
+              "color": "#bb412e"
+            },
+            ".mbr-plan-price-desc": {
+              "text-align": "center"
+            },
+            ".mbr-plan-price-desc I": {
+              "font-size": "22px",
+              "color": "#fffffd"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cifra iniziale fissa una tantum + \"extra\" mensili relativi ad acquisto traffico ed expertise senza nessun obbligo di durata",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "showHeading": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "formBg": "#fafbfc",
+            "formHeader": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          },
+          "title": "Scrivici",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get started</a>",
+          "header": "",
+          "form": {
+            "action": "agenzia.assidigital@gmail.com",
+            "alerts": {
+              "success": "Grazie per averci lasciato i tuoi dati, ti contattiamo presto per fornirti info e specifiche sul nostro Programma Freelance"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nome e Cognome"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telefono cellulare"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Testo libero"
+              }
+            }
+          },
+          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">INVIA</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-a",
+          "_styles": {
+            ".form": {
+              "background": "#fafbfc"
+            }
+          }
+        },
+        {
+          "_styles": {
+            "p": {
+              "color": "#000"
+            }
+          },
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 AssiDigital.",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "footer4",
+          "_anchor": "footer4-s"
+        }
+      ]
+    }
+  }
+}
