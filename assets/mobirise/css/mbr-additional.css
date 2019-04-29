@@ -535,11 +535,11 @@ a:hover {
   font-family: 'Libre Franklin', serif;
 }
 #menu2-v .link {
-  font-size: 0.8125rem;
+  font-size: 0.6rem;
 }
 #menu2-v .dropdown-item,
 #menu2-v .nav-dropdown-sm .link {
-  font-size: 0.880rem;
+  font-size: 0.650rem;
 }
 #menu2-v .link:hover,
 #menu2-v .link:focus {
