@@ -100,7 +100,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": false,
             "bgColor": "#fff",
