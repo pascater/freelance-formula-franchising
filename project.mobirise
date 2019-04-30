@@ -302,14 +302,14 @@
             },
             ".heading-text": {
               "font-size": "25px",
-              "color": "#dfd9ca"
+              "color": "#1e3b83"
             },
             ".btn": {
               "font-size": "36px"
             },
             ".heading-title": {
               "font-size": "60px",
-              "color": "#dfd9ca"
+              "color": "#1e3b83"
             }
           },
           "_params": {
@@ -322,8 +322,8 @@
             "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "containerColor1": "#631c70",
-            "containerColor2": "#3ca8c7",
+            "containerColor1": "#dfd9ca",
+            "containerColor2": "#dfd9ca",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
