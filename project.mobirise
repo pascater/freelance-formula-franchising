@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 34,
+    "uniqCompNum": 39,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -222,7 +222,7 @@
           "title4": "Ultimate",
           "price1": "<b>997</b>",
           "price2": "<b>1.997</b>",
-          "price3": "<b>3.997</b>",
+          "price3": " ̶3̶.̶9̶9̶7̶<br><b>2.997</b>",
           "price4": "150",
           "period1": "+ extra per traffico",
           "period2": "+ extra&nbsp;per traffico",
@@ -230,11 +230,11 @@
           "period4": "$/monthly",
           "description1": "",
           "description2": "",
-          "description3": "<b><i>Formula &nbsp;Franchising</i></b>",
+          "description3": "<b><i>OFFERTA PER FIERA &nbsp;FRANCHISING</i></b>",
           "description4": "One week free",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b><i>Installazione Funnel completo</i></b></li><li class=\"list-group-item\"><b><i>Leads (contatti interessati) quotidiani\n</i></b></li><li class=\"list-group-item\"><b><i>Tecnica telefonica per fissare appuntamenti</i></b></li></ul>",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b><i>Installazione Funnel completo</i></b></li><li class=\"list-group-item\"><b><i>Leads (contatti interessati) quotidiani</i></b></li><li class=\"list-group-item\"><b><i>Metodo full per fissare appuntamenti + vendita</i></b></li><li class=\"list-group-item\"><b><i>Corso Vendita completo\n</i></b></li><li class=\"list-group-item\"><b><i>Sito internet + Social\n</i></b></li><li class=\"list-group-item\"><b><i>Corso base Digital Marketing</i></b></li></ul>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b><i>Installazione 2 Funnel completi + Marketing Automation</i></b></li><li class=\"list-group-item\"><b><i>Leads (contatti interessati) quotidiani</i></b></li><li class=\"list-group-item\"><b><i>Metodo \"Advanced\" per fissare appuntamento + vendita</i></b></li><li class=\"list-group-item\"><b><i>Formazione \"Executive\" in aula\n</i></b></li><li class=\"list-group-item\"><b><i>Corso Vendita \"Top\"</i></b></li><li class=\"list-group-item\"><i><b>Brand position geolocalizzato</b></i></li><li class=\"list-group-item\"><b><i>Sito internet + Social</i></b></li><li class=\"list-group-item\"><b><i>Corso Digital Marketing \"Full\"\n</i></b></li><li class=\"list-group-item\"><b><i>Software vendita \"Plus35\" IDD</i></b></li><li class=\"list-group-item\"><b><i>Supporto dedicato 9/18</i></b></li><li class=\"list-group-item\"><b><i>Mandati con provv. 90%\n</i></b></li><li class=\"list-group-item\"><b><i>Esclusiva di zona + uso Brand</i></b></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b><i>Installazione 2 Funnel completi (Funnel RC auto e Funnel rami elementari)</i></b></li><li class=\"list-group-item\"><b><i>+ Marketing Automation</i></b></li><li class=\"list-group-item\"><b><i>Leads (contatti interessati) quotidiani</i></b></li><li class=\"list-group-item\"><b><i>Metodo \"Advanced\" per fissare appuntamenti + vendita</i></b></li><li class=\"list-group-item\"><b><i>Formazione \"Executive\" in aula\n</i></b></li><li class=\"list-group-item\"><b><i>Corso Vendita Avanzata \"Top\"</i></b></li><li class=\"list-group-item\"><i><b>Brand position geolocalizzato</b></i></li><li class=\"list-group-item\"><b><i>Sito internet + Social Media</i></b></li><li class=\"list-group-item\"><b><i>App e Gestionali da remoto</i></b></li><li class=\"list-group-item\"><b><i>Corso Digital Marketing \"Full\"\n</i></b></li><li class=\"list-group-item\"><b><i>Software vendita \"Plus35\" IDD</i></b></li><li class=\"list-group-item\"><b><i>Supporto dedicato 9/18</i></b></li><li class=\"list-group-item\"><b><i>Mandati con provv. 90%\n</i></b></li><li class=\"list-group-item\"><b><i>Esclusiva di zona + uso Brand</i></b></li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Mobirise horizontal navigation menu collapses on devices to a single-icon mobile menu, also know as \"hamburger menu\", for a flawless mobile experience for all visitors.</li><li class=\"list-group-item\">Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.</li><li class=\"list-group-item\">20 GB bandwidth</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSeGjoB_mR-ppUk-lKnMZazCAQPpm-uoBJgkC2Zbv9KKkhxRzA/viewform\" class=\"btn btn-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Scopri di più</a> ",
           "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSeGjoB_mR-ppUk-lKnMZazCAQPpm-uoBJgkC2Zbv9KKkhxRzA/viewform\" class=\"btn btn-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Scopri di più</a>",
@@ -290,6 +290,351 @@
           ],
           "_name": "content1",
           "_anchor": "content1-4"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-text": {
+              "font-size": "25px"
+            },
+            ".btn": {
+              "font-size": "36px"
+            },
+            ".heading-title": {
+              "font-size": "60px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "contentAlign": "left",
+            "showArrow": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#631c70",
+            "containerColor2": "#3ca8c7",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#616161",
+            "overlayOpacity": 0.8
+          },
+          "title": "Assicuratore o aspirante tale?&nbsp;",
+          "text": "<br>Guardati intorno, in giro c'è di meglio che essere pagati al 35/40% delle provvigioni che prendono gli agenti.\n<br><br>C'è di meglio che fare dei turni telefonici a freddo o delle riunioni di lavaggio del cervello alle otto di mattina. <br>\n<br>C'è di meglio che avere un anticipo provvigionale da fame e non avere poi la paternità del tuo portafoglio che hai creato con sacrifici e sudore.\n<br><br>C'è di meglio che farsi sfruttare, il nostro può e deve essere un lavoro sereno e gratificante e dove si guadagna bene senza affanni.\n<br><br>In AssiDigital offriamo il 70/80/90% delle nostre provvigioni.\n<br>Forniamo quotidianamente contatti di persone interessate a fare le polizze con noi.<br>\n<br>Diamo un software che aiuta nelle vendite e che è conforme alle nuove regole IDD.\n<br><br>Applichiamo un nuovo metodo di lavoro moderno, originale ed efficace.\n<br><br>Eroghiamo rappels in denaro ed extrapremi di varia natura.\n<br>Formiamo i nostri collaboratori in digital marketing e tecniche di vendite innovative e conformi IVASS\n<br><br>Chi vuole, può lavorare in remoto tramite software gestionali e facilitatori amministrativo burocratici\n<br><br>Abbiamo Comparatori e quotatori in tempo reale.\n<br>Di fatto e concretamente vi è un'eccellente possibilità di crearsi una nuova carriera lavorativa più facile, più comoda e più remunerativa.\n<br><br>Cambia in meglio la tua vita, liberati dalle catene e guadagna di più in totale serenità.\n<br><br>Abbandona i vecchi assicuratori dinosauri che ti bloccano e ti tarpano le ali.\n<br><br>Dì di no a tutte quelle reti di vendita assicurative che promettono il paradiso con paroloni vacui, stantii, ripetitivi ed inutilmente tronfi.\n<br><br>Rifiuta le offerte di quegli agenti pronti a spremere i venditori come limoni e poi dimenticarli e metterli in un angolo prima della naturale conseguenza delle loro dimissioni.\n<br><br>Allontana subito (se ci sei dentro) tutti quelli che fanno tuttora così come hanno sempre fatto anche i loro predecessori in passato.<br><br>Pertanto...\n<br><br>senza timore scegli AssiDigital col sistema chiavi in mano <b>\"Franchising Formula\"</b> avrai in men che non si dica in mano la professione e sarai pronto a decollare come professionista assicurativo. <br><br>Fidati, hai solo da guadagnarci (e tanto in tutti i sensi)<br>\n<br>Invia ora la tua manifestazione di interesse!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#pricing-table3-2\" data-toolbar=\"-mbrBtnMove\">CLICCA QUI'</a> ",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "mobirise",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title1": "What is Mobirise",
+          "subtitle1": "Awesome",
+          "text1": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title2": "What is Mobirise",
+          "subtitle2": "Awesome",
+          "text2": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title3": "What is Mobirise",
+          "subtitle3": "Awesome",
+          "text3": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-y"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgicon": true,
+            "showHeading": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "contentAlign": "center",
+            "columns": "4",
+            "iconsBgColor": "@primaryColor",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#f0f1f2",
+            "containerColor2": "#fffefd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#616161",
+            "overlayOpacity": 0.8
+          },
+          "bgicon": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "website-theme",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title": "COSA CI DIFFERENZIA DA TUTTI GLI ALTRI?",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-lg btn-empty\" href=\"https://mobirise.com\">Or view demo</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "color": "#222"
+            }
+          },
+          "title1": "IL MARKETING E LE VENDITE",
+          "subtitle1": "Awesome",
+          "text1": "Si, siamo esperti di queste due materie in maniera differente ed innovativa. A differenza di tutti gli altri, ti forniamo i nominativi a cui fare le polizze e ti insegniamo un metodo totalmente nuovo per approcciare il potenziale cliente. Primi assoluti in italia del digital marketing assicurativo. Abbiamo formato in questa materia circa 1.000 colleghi negli ultimi 5 anni, insegnando loro ciò che noi stessi abbiamo messo in campo. ",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title2": "IL METODO ORIGINALE",
+          "subtitle2": "Awesome",
+          "text2": "Il nostro metodo per fissare gli appuntamenti e poi per fare consulenza vera davanti al cliente è qualcosa mai visto prima in Italia. Il nostro metodo originale è ripulito da tutti gli errori che noi stessi abbiamo fatto in passato, tu prendi solo il meglio.",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title3": "IL BRAND FUTURISTICO",
+          "subtitle3": "Awesome",
+          "text3": "La nostra attività assicurativa è talmente avanzata che è stata riconosciuta dalla legge come \"Startup innovativa\", visto il nostro sistema ibrido \"online/offline\". Siamo i primi e gli unici in Italia ad aver avuto questo riconoscimento (molto difficile da ottenere).<br>",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch-swipe",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "GLI STRUMENTI AVANZATISSIMI",
+          "subtitle4": "Awesome",
+          "text4": "Utilizziamo strumenti digitali super innovativi e semplici da usare, che permettono di concentrarsi al massimo li dove serve: nel fare le polizze. Tutto il resto avviene in maniera dematerializzata con strumenti online come app, gestionali e comparatori.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "features21",
+          "_anchor": "features21-10",
+          "_styles": {
+            ".card .mbr-iconfont": {
+              "background": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "font-size": "48px"
+            },
+            ".card-text": {
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgicon": true,
+            "showHeading": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "contentAlign": "center",
+            "columns": "2",
+            "iconsBgColor": "@primaryColor",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#f0f1f2",
+            "containerColor2": "#fffefd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#616161",
+            "overlayOpacity": 0.8
+          },
+          "bgicon": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "website-theme",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title": "Features with Gradient Background",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-lg btn-empty\" href=\"https://mobirise.com\">Or view demo</a>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "mobirise",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title1": "LA CONFORMITA' IDD",
+          "subtitle1": "Awesome",
+          "text1": "Ad oggi siamo fra i pochissimi ad avere l'intero processo compliant alle nuove e stringenti regole europee IDD che porteranno in futuro circa il 30% degli assicuratori ad abbandonare l'attività se non vi si conformano.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title2": "LE MAXI PROVVIGIONI",
+          "subtitle2": "Awesome",
+          "text2": "Abbiamo provvigioni nettamente più alte di tutto il mercato.\n<br>Cogli ora l'opportunità di dare una svolta alla tua attività di assicuratore con \"AssiDigital Franchising\"",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title3": "What is Mobirise",
+          "subtitle3": "Awesome",
+          "text3": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch-swipe",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "features21",
+          "_anchor": "features21-11",
+          "_styles": {
+            ".card .mbr-iconfont": {
+              "background": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".card-text": {
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#pricing-table3-2\" data-toolbar=\"-mbrBtnMove\">GUARDA LE OPZIONI DI SCELTA POSSIBILI</a> ",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-12"
         },
         {
           "_params": {

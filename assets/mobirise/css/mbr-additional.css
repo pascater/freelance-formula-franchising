@@ -616,6 +616,49 @@ a:hover {
   font-size: 22px;
   color: #fffffd;
 }
+#header2-y .mbr-section-title,
+#header2-y .mbr-section-subtitle {
+  color: #ffffff;
+}
+#header2-y .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#header2-y .mbr-table-cell {
+  vertical-align: middle;
+}
+#header2-y .heading-text {
+  font-size: 25px;
+}
+#header2-y .btn {
+  font-size: 36px;
+}
+#header2-y .heading-title {
+  font-size: 60px;
+}
+#features21-10 .card .mbr-iconfont {
+  background: #bdb39a;
+  border-color: #bdb39a;
+}
+#features21-10 .mbr-table-cell {
+  vertical-align: middle;
+}
+#features21-10 .heading-title {
+  font-size: 48px;
+}
+#features21-10 .card-text {
+  font-size: 18px;
+}
+#features21-11 .card .mbr-iconfont {
+  background: #bdb39a;
+  border-color: #bdb39a;
+}
+#features21-11 .mbr-table-cell {
+  vertical-align: middle;
+}
+#features21-11 .card-text {
+  font-size: 18px;
+}
 #form1-a .form {
   background: #fafbfc;
 }
