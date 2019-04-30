@@ -636,7 +636,12 @@
             "Tema"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-12"
+          "_anchor": "buttons1-12",
+          "_styles": {
+            ".btn": {
+              "font-size": "23px"
+            }
+          }
         },
         {
           "_params": {
