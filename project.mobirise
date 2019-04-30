@@ -301,13 +301,15 @@
               "vertical-align": "middle"
             },
             ".heading-text": {
-              "font-size": "25px"
+              "font-size": "25px",
+              "color": "#dfd9ca"
             },
             ".btn": {
               "font-size": "36px"
             },
             ".heading-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "color": "#dfd9ca"
             }
           },
           "_params": {
@@ -330,7 +332,7 @@
             "overlayColor": "#616161",
             "overlayOpacity": 0.8
           },
-          "title": "Assicuratore o aspirante tale?&nbsp;",
+          "title": "<br>Assicuratore o aspirante tale?&nbsp;",
           "text": "<br>Guardati intorno, in giro c'è di meglio che essere pagati al 35/40% delle provvigioni che prendono gli agenti.\n<br><br>C'è di meglio che fare dei turni telefonici a freddo o delle riunioni di lavaggio del cervello alle otto di mattina. <br>\n<br>C'è di meglio che avere un anticipo provvigionale da fame e non avere poi la paternità del tuo portafoglio che hai creato con sacrifici e sudore.\n<br><br>C'è di meglio che farsi sfruttare, il nostro può e deve essere un lavoro sereno e gratificante e dove si guadagna bene senza affanni.\n<br><br>In AssiDigital offriamo il 70/80/90% delle nostre provvigioni.\n<br>Forniamo quotidianamente contatti di persone interessate a fare le polizze con noi.<br>\n<br>Diamo un software che aiuta nelle vendite e che è conforme alle nuove regole IDD.\n<br><br>Applichiamo un nuovo metodo di lavoro moderno, originale ed efficace.\n<br><br>Eroghiamo rappels in denaro ed extrapremi di varia natura.\n<br>Formiamo i nostri collaboratori in digital marketing e tecniche di vendite innovative e conformi IVASS\n<br><br>Chi vuole, può lavorare in remoto tramite software gestionali e facilitatori amministrativo burocratici\n<br><br>Abbiamo Comparatori e quotatori in tempo reale.\n<br>Di fatto e concretamente vi è un'eccellente possibilità di crearsi una nuova carriera lavorativa più facile, più comoda e più remunerativa.\n<br><br>Cambia in meglio la tua vita, liberati dalle catene e guadagna di più in totale serenità.\n<br><br>Abbandona i vecchi assicuratori dinosauri che ti bloccano e ti tarpano le ali.\n<br><br>Dì di no a tutte quelle reti di vendita assicurative che promettono il paradiso con paroloni vacui, stantii, ripetitivi ed inutilmente tronfi.\n<br><br>Rifiuta le offerte di quegli agenti pronti a spremere i venditori come limoni e poi dimenticarli e metterli in un angolo prima della naturale conseguenza delle loro dimissioni.\n<br><br>Allontana subito (se ci sei dentro) tutti quelli che fanno tuttora così come hanno sempre fatto anche i loro predecessori in passato.<br><br>Pertanto...\n<br><br>senza timore scegli AssiDigital col sistema chiavi in mano <b>\"Franchising Formula\"</b> avrai in men che non si dica in mano la professione e sarai pronto a decollare come professionista assicurativo. <br><br>Fidati, hai solo da guadagnarci (e tanto in tutti i sensi)<br>\n<br>Invia ora la tua manifestazione di interesse!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#pricing-table3-2\" data-toolbar=\"-mbrBtnMove\">CLICCA QUI'</a> ",
           "media1": {
