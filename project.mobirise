@@ -217,7 +217,8 @@
               "font-size": "32px"
             },
             ".heading-text": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "24px"
             }
           }
         },
