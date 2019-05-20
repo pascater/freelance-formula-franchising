@@ -45,8 +45,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Franchising assicurativo - Diventa un assicuratore digitale",
+        "meta_descr": "Diventa un assicuratore subito con la nostra formula franchising assicurativo",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -68,10 +68,10 @@
               "font-family": "'Libre Franklin', serif"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "1.35rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "1.462rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -113,8 +113,8 @@
             "collapsed": false,
             "transparent": false,
             "bgColor": "#fff",
-            "fontSize": "0.6",
-            "imageSize": "4.5",
+            "fontSize": "1.35",
+            "imageSize": "5",
             "fontName": {
               "name": "Libre Franklin",
               "css": "'Libre Franklin', serif",
@@ -140,41 +140,13 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.insurancemarketing.eu/franchising-assicurativo\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">AssiDigital Startup Innovativa</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.insurancemarketing.eu/franchising-assicurativo\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">AssiDigital Startup Innovativa Freelance Franchising Formula</a>",
           "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
           "_tags": [
             "Tema"
           ],
           "_name": "menu2",
           "_anchor": "menu2-v"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgColor": "#ffffff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/freelance-program-assidigital-freccia-giu-1400x878.png",
-              "width": 1400,
-              "link": "https://www.insurancemarketing.eu/franchising-assicurativo",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": true
-            },
-            "video": {
-              "src": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            }
-          },
-          "text": "",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "image3",
-          "_anchor": "image3-r"
         },
         {
           "_params": {
@@ -196,7 +168,7 @@
             "overlayColor": "#264a54",
             "overlayOpacity": 0.2
           },
-          "title": "<br><br>VUOI DIVENTARE UN ASSICURATORE DI SUCCESSO? <br><br>\n<div>\n</div><div>SEI GIA' UN ASSICURATORE E VUOI MIGLIORARE LA TUA ATTIVITA?</div><br><div>DIVENTA ORA L'ASSICURATORE DIGITALE DEL FUTURO.\n</div><div><br></div>",
+          "title": "<br><br><br><b>VUOI DIVENTARE UN ASSICURATORE DI SUCCESSO? <br><br>\n</b><div>\n</div><div><b>SEI GIA' UN ASSICURATORE E VUOI MIGLIORARE LA TUA ATTIVITA?</b></div><b><br></b><div><b>DIVENTA ORA L'ASSICURATORE DIGITALE DEL FUTURO.\n</b></div><div><br></div>",
           "text": "Ora si può: con il nostro pacchetto di servizi inovativi puoi trasformarti in un vero professionista assicurativo digitale in pochissimo tempo. \n<br>\n<br>Acquisirai nuove skills e competenze che ti proietteranno immediatamente nel futuro della professione.\n<br>\n<br>In soli due mesi ti attesterai come un professionista assoluto, ricevendo tutta la nostra esperienza, il nostro know-how, le nostre competenze, il nostro metodo ed i nostri strumenti innovativi.\n<br>\n<br>La professione di assicuratore è tuttora l'unica a non essere stata travolta dalla digitalizzazione e questo è un bene perchè significa che siamo al posto giusto al momento giusto, ma questa pacchia medievale durerà ancora pochissimo.\n<br>\n<br>Nell’attuale fase di enorme cambiamento nella distribuzione assicurativa, settore notoriamente poco incline all’innovazione, si sta affacciando sul mercato una vera e propria rivoluzione dettata dalle nuove tecnologie via web.\n<br>\n<br>Nei prossimi anni il modello distributivo basato solo sulle agenzie assicurative tradizionali sarà messo in forte crisi; già da alcuni anni si stanno verificando migliaia di chiusure di agenzie (circa 5.500 dal 2007 ad oggi) di piccole dimensioni e gestite a livello familiare senza innovazione nel servizio.<br><br>Si presume che nel prossimo decennio, saranno più del doppio a fare la stessa fine per un naturale processo evolutivo. \n<br>\n<br>Il mercato delle assicurazioni integrate col web è in Italia ancora agli albori e coperto per meno del 10% del totale, contro la media del 30% degli altri paesi europei evoluti. &nbsp;Quindi l'Italia subirà a breve lo stesso precesso di penetrazione.<br>\n<br>Si tratta di un settore (quello delle sole assicurazioni online) che a regime (5/7 anni max.) avrà la quota di mercato di circa 10 miliardi di euro l’anno; quota che verrà sottratta agli agenti tradizionali.\n<br>\n<br>Come fare dunque per entrare dalla porta principale in questo florido mercato assicurativo online?&nbsp;<br>\n<br>Semplice: bisogna adeguarsi all'innovazione digitale ed utilizzarne i vantaggi in tutte le sue sfaccettature.\n<br>\n<br>Questa, sia chiaro, è un'opportunità epocale e sta succedendo proprio ora! non ci sarà mai più un'opportunità del genere.<br>\n<br>\n<br>\n<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"https://mobirise.com\">Download for Mac</a>",
           "_tags": [
@@ -210,11 +182,11 @@
               "vertical-align": "middle"
             },
             ".heading-title": {
-              "font-size": "32px",
+              "font-size": "36px",
               "color": "#ffffff"
             },
             ".heading-title DIV": {
-              "font-size": "32px"
+              "font-size": "36px"
             },
             ".heading-text": {
               "text-align": "left",

@@ -535,11 +535,11 @@ a:hover {
   font-family: 'Libre Franklin', serif;
 }
 #menu2-v .link {
-  font-size: 0.6rem;
+  font-size: 1.35rem;
 }
 #menu2-v .dropdown-item,
 #menu2-v .nav-dropdown-sm .link {
-  font-size: 0.650rem;
+  font-size: 1.462rem;
 }
 #menu2-v .link:hover,
 #menu2-v .link:focus {
@@ -592,11 +592,11 @@ a:hover {
   vertical-align: middle;
 }
 #header4-z .heading-title {
-  font-size: 32px;
+  font-size: 36px;
   color: #ffffff;
 }
 #header4-z .heading-title DIV {
-  font-size: 32px;
+  font-size: 36px;
 }
 #header4-z .heading-text {
   text-align: left;
