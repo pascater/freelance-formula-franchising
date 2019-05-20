@@ -210,11 +210,11 @@
               "vertical-align": "middle"
             },
             ".heading-title": {
-              "font-size": "36px",
+              "font-size": "32px",
               "color": "#ffffff"
             },
             ".heading-title DIV": {
-              "font-size": "36px"
+              "font-size": "32px"
             },
             ".heading-text": {
               "text-align": "left"
