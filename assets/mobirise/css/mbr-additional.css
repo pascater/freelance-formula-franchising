@@ -584,6 +584,23 @@ a:hover {
 #menu2-v .dropdown-item[aria-expanded="true"] {
   color: #bdb39a!important;
 }
+#header4-z .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#header4-z .mbr-table-cell {
+  vertical-align: middle;
+}
+#header4-z .heading-title {
+  font-size: 36px;
+  color: #ffffff;
+}
+#header4-z .heading-title DIV {
+  font-size: 36px;
+}
+#header4-z .heading-text {
+  text-align: left;
+}
 #content1-e P {
   font-size: 30px;
   color: #2b4484;
